@@ -1,0 +1,15 @@
+C:\Projetos\CSharp\P13-APalavraChaveBreak\bin\Debug\net6.0\P13-APalavraChaveBreak.exe
+C:\Projetos\CSharp\P13-APalavraChaveBreak\bin\Debug\net6.0\P13-APalavraChaveBreak.deps.json
+C:\Projetos\CSharp\P13-APalavraChaveBreak\bin\Debug\net6.0\P13-APalavraChaveBreak.runtimeconfig.json
+C:\Projetos\CSharp\P13-APalavraChaveBreak\bin\Debug\net6.0\P13-APalavraChaveBreak.dll
+C:\Projetos\CSharp\P13-APalavraChaveBreak\bin\Debug\net6.0\P13-APalavraChaveBreak.pdb
+C:\Projetos\CSharp\P13-APalavraChaveBreak\obj\Debug\net6.0\P13-APalavraChaveBreak.csproj.AssemblyReference.cache
+C:\Projetos\CSharp\P13-APalavraChaveBreak\obj\Debug\net6.0\P13-APalavraChaveBreak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CSharp\P13-APalavraChaveBreak\obj\Debug\net6.0\P13-APalavraChaveBreak.AssemblyInfoInputs.cache
+C:\Projetos\CSharp\P13-APalavraChaveBreak\obj\Debug\net6.0\P13-APalavraChaveBreak.AssemblyInfo.cs
+C:\Projetos\CSharp\P13-APalavraChaveBreak\obj\Debug\net6.0\P13-APalavraChaveBreak.csproj.CoreCompileInputs.cache
+C:\Projetos\CSharp\P13-APalavraChaveBreak\obj\Debug\net6.0\P13-APalavraChaveBreak.dll
+C:\Projetos\CSharp\P13-APalavraChaveBreak\obj\Debug\net6.0\refint\P13-APalavraChaveBreak.dll
+C:\Projetos\CSharp\P13-APalavraChaveBreak\obj\Debug\net6.0\P13-APalavraChaveBreak.pdb
+C:\Projetos\CSharp\P13-APalavraChaveBreak\obj\Debug\net6.0\P13-APalavraChaveBreak.genruntimeconfig.cache
+C:\Projetos\CSharp\P13-APalavraChaveBreak\obj\Debug\net6.0\ref\P13-APalavraChaveBreak.dll

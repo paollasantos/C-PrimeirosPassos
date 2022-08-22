@@ -1,0 +1,15 @@
+C:\Projetos\CSharp\P11-LaçoDeRepetiçãoFor\bin\Debug\net6.0\P11-LaçoDeRepetiçãoFor.exe
+C:\Projetos\CSharp\P11-LaçoDeRepetiçãoFor\bin\Debug\net6.0\P11-LaçoDeRepetiçãoFor.deps.json
+C:\Projetos\CSharp\P11-LaçoDeRepetiçãoFor\bin\Debug\net6.0\P11-LaçoDeRepetiçãoFor.runtimeconfig.json
+C:\Projetos\CSharp\P11-LaçoDeRepetiçãoFor\bin\Debug\net6.0\P11-LaçoDeRepetiçãoFor.dll
+C:\Projetos\CSharp\P11-LaçoDeRepetiçãoFor\bin\Debug\net6.0\P11-LaçoDeRepetiçãoFor.pdb
+C:\Projetos\CSharp\P11-LaçoDeRepetiçãoFor\obj\Debug\net6.0\P11-LaçoDeRepetiçãoFor.csproj.AssemblyReference.cache
+C:\Projetos\CSharp\P11-LaçoDeRepetiçãoFor\obj\Debug\net6.0\P11-LaçoDeRepetiçãoFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CSharp\P11-LaçoDeRepetiçãoFor\obj\Debug\net6.0\P11-LaçoDeRepetiçãoFor.AssemblyInfoInputs.cache
+C:\Projetos\CSharp\P11-LaçoDeRepetiçãoFor\obj\Debug\net6.0\P11-LaçoDeRepetiçãoFor.AssemblyInfo.cs
+C:\Projetos\CSharp\P11-LaçoDeRepetiçãoFor\obj\Debug\net6.0\P11-LaçoDeRepetiçãoFor.csproj.CoreCompileInputs.cache
+C:\Projetos\CSharp\P11-LaçoDeRepetiçãoFor\obj\Debug\net6.0\P11-LaçoDeRepetiçãoFor.dll
+C:\Projetos\CSharp\P11-LaçoDeRepetiçãoFor\obj\Debug\net6.0\refint\P11-LaçoDeRepetiçãoFor.dll
+C:\Projetos\CSharp\P11-LaçoDeRepetiçãoFor\obj\Debug\net6.0\P11-LaçoDeRepetiçãoFor.pdb
+C:\Projetos\CSharp\P11-LaçoDeRepetiçãoFor\obj\Debug\net6.0\P11-LaçoDeRepetiçãoFor.genruntimeconfig.cache
+C:\Projetos\CSharp\P11-LaçoDeRepetiçãoFor\obj\Debug\net6.0\ref\P11-LaçoDeRepetiçãoFor.dll

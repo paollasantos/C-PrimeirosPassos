@@ -8,7 +8,7 @@ class programa
         int idadeJoao = 16;
         int quantidadePessoas = 2;
 
-        bool acompanhado = quantidadePessoas > 1;
+        bool acompanhado = quantidadePessoas >= 2;
 
         string textoAdicional;
 

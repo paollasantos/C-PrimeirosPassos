@@ -16,7 +16,7 @@ class programa
         }
         else
         {
-            if (quantidadePessoas > 1)
+            if (quantidadePessoas >= 2)
             {
                 Console.WriteLine("Ele está acompanhado. Pode entrar!");
             }

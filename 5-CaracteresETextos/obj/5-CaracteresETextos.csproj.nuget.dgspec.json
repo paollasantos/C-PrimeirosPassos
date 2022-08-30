@@ -1,18 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\CSharp\\5-CaracteresETextos\\5-CaracteresETextos.csproj": {}
+    "C:\\Projetos\\CSharp\\C-PrimeirosPassos\\5-CaracteresETextos\\5-CaracteresETextos.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\CSharp\\5-CaracteresETextos\\5-CaracteresETextos.csproj": {
+    "C:\\Projetos\\CSharp\\C-PrimeirosPassos\\5-CaracteresETextos\\5-CaracteresETextos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\CSharp\\5-CaracteresETextos\\5-CaracteresETextos.csproj",
+        "projectUniqueName": "C:\\Projetos\\CSharp\\C-PrimeirosPassos\\5-CaracteresETextos\\5-CaracteresETextos.csproj",
         "projectName": "5-CaracteresETextos",
-        "projectPath": "C:\\Projetos\\CSharp\\5-CaracteresETextos\\5-CaracteresETextos.csproj",
+        "projectPath": "C:\\Projetos\\CSharp\\C-PrimeirosPassos\\5-CaracteresETextos\\5-CaracteresETextos.csproj",
         "packagesPath": "C:\\Users\\ASPIRE 5\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\CSharp\\5-CaracteresETextos\\obj\\",
+        "outputPath": "C:\\Projetos\\CSharp\\C-PrimeirosPassos\\5-CaracteresETextos\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\ASPIRE 5\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"

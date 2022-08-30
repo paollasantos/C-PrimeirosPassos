@@ -13,6 +13,7 @@ class programa
         //****
         //*****
 
+        // variavel + condição + contador
         for (int contadorLinhas = 0; contadorLinhas < 10; contadorLinhas++)
         {
             for (int contadorColunas = 0; contadorColunas < 10; contadorColunas++)
@@ -20,6 +21,18 @@ class programa
                 Console.Write("*");
                 if (contadorColunas >= contadorLinhas)
                     break;
+            }
+            Console.WriteLine();
+        }
+
+        Console.WriteLine(); 
+
+        // Uma forma diferente de fazer o desenho de asteríscos
+        for (int contadorLinha = 0; contadorLinha < 10; contadorLinha++)
+        {
+            for (int contadorColuna = 0; contadorColuna <= contadorLinha; contadorColuna++)
+            {
+                Console.Write("*");
             }
             Console.WriteLine();
         }

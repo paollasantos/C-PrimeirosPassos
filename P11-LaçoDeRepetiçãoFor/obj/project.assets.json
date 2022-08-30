@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\CSharp\\P11-LaçoDeRepetiçãoFor\\P11-LaçoDeRepetiçãoFor.csproj",
+      "projectUniqueName": "C:\\Projetos\\CSharp\\C-PrimeirosPassos\\P11-LaçoDeRepetiçãoFor\\P11-LaçoDeRepetiçãoFor.csproj",
       "projectName": "P11-LaçoDeRepetiçãoFor",
-      "projectPath": "C:\\Projetos\\CSharp\\P11-LaçoDeRepetiçãoFor\\P11-LaçoDeRepetiçãoFor.csproj",
+      "projectPath": "C:\\Projetos\\CSharp\\C-PrimeirosPassos\\P11-LaçoDeRepetiçãoFor\\P11-LaçoDeRepetiçãoFor.csproj",
       "packagesPath": "C:\\Users\\ASPIRE 5\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\CSharp\\P11-LaçoDeRepetiçãoFor\\obj\\",
+      "outputPath": "C:\\Projetos\\CSharp\\C-PrimeirosPassos\\P11-LaçoDeRepetiçãoFor\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,18 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\CSharp\\6-AtribuicoesDeVariáveis\\6-AtribuicoesDeVariáveis.csproj": {}
+    "C:\\Projetos\\CSharp\\C-PrimeirosPassos\\6-AtribuicoesDeVariáveis\\6-AtribuicoesDeVariáveis.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\CSharp\\6-AtribuicoesDeVariáveis\\6-AtribuicoesDeVariáveis.csproj": {
+    "C:\\Projetos\\CSharp\\C-PrimeirosPassos\\6-AtribuicoesDeVariáveis\\6-AtribuicoesDeVariáveis.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\CSharp\\6-AtribuicoesDeVariáveis\\6-AtribuicoesDeVariáveis.csproj",
+        "projectUniqueName": "C:\\Projetos\\CSharp\\C-PrimeirosPassos\\6-AtribuicoesDeVariáveis\\6-AtribuicoesDeVariáveis.csproj",
         "projectName": "6-AtribuicoesDeVariáveis",
-        "projectPath": "C:\\Projetos\\CSharp\\6-AtribuicoesDeVariáveis\\6-AtribuicoesDeVariáveis.csproj",
+        "projectPath": "C:\\Projetos\\CSharp\\C-PrimeirosPassos\\6-AtribuicoesDeVariáveis\\6-AtribuicoesDeVariáveis.csproj",
         "packagesPath": "C:\\Users\\ASPIRE 5\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\CSharp\\6-AtribuicoesDeVariáveis\\obj\\",
+        "outputPath": "C:\\Projetos\\CSharp\\C-PrimeirosPassos\\6-AtribuicoesDeVariáveis\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\ASPIRE 5\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"

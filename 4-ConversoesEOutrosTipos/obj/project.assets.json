@@ -8,17 +8,21 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ASPIRE 5\\.nuget\\packages\\": {}
+    "C:\\Users\\ASPIRE 5\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\CSharp\\4-ConversoesEOutrosTipos\\4-ConversoesEOutrosTipos.csproj",
+      "projectUniqueName": "C:\\Projetos\\CSharp\\C-PrimeirosPassos\\4-ConversoesEOutrosTipos\\4-ConversoesEOutrosTipos.csproj",
       "projectName": "4-ConversoesEOutrosTipos",
-      "projectPath": "C:\\Projetos\\CSharp\\4-ConversoesEOutrosTipos\\4-ConversoesEOutrosTipos.csproj",
+      "projectPath": "C:\\Projetos\\CSharp\\C-PrimeirosPassos\\4-ConversoesEOutrosTipos\\4-ConversoesEOutrosTipos.csproj",
       "packagesPath": "C:\\Users\\ASPIRE 5\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\CSharp\\4-ConversoesEOutrosTipos\\obj\\",
+      "outputPath": "C:\\Projetos\\CSharp\\C-PrimeirosPassos\\4-ConversoesEOutrosTipos\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
         "C:\\Users\\ASPIRE 5\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"

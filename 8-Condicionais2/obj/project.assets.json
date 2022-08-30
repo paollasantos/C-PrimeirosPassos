@@ -8,17 +8,21 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ASPIRE 5\\.nuget\\packages\\": {}
+    "C:\\Users\\ASPIRE 5\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\CSharp\\8-Condicionais2\\8-Condicionais2.csproj",
+      "projectUniqueName": "C:\\Projetos\\CSharp\\C-PrimeirosPassos\\8-Condicionais2\\8-Condicionais2.csproj",
       "projectName": "8-Condicionais2",
-      "projectPath": "C:\\Projetos\\CSharp\\8-Condicionais2\\8-Condicionais2.csproj",
+      "projectPath": "C:\\Projetos\\CSharp\\C-PrimeirosPassos\\8-Condicionais2\\8-Condicionais2.csproj",
       "packagesPath": "C:\\Users\\ASPIRE 5\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\CSharp\\8-Condicionais2\\obj\\",
+      "outputPath": "C:\\Projetos\\CSharp\\C-PrimeirosPassos\\8-Condicionais2\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
         "C:\\Users\\ASPIRE 5\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"

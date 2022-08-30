@@ -14,6 +14,8 @@ class programa
 
         idade = 25;
 
+        Console.WriteLine(idade);
+
         Console.WriteLine("Tecle enter para fechar...");
         Console.ReadLine();
     }

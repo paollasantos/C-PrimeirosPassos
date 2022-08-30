@@ -5,8 +5,6 @@ class programa
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Executando o projeto 11 - Laço de repetição for - calcula Poupança2");
-
         /*
         while (mes <= 12)
         {
@@ -16,6 +14,8 @@ class programa
             mes += 1;
         }
         */
+
+        Console.WriteLine("Executando o projeto 11 - Laço de repetição for - calcula Poupança2");
 
         double investimento = 1000;
 

@@ -6,11 +6,13 @@ class programa
         Console.WriteLine("Executando o projeto 8 - Condicionais2");
 
         int idadeJoao = 16;
-        int quantidadePessoas = 2;
 
-        bool acompanhado = quantidadePessoas > 1;
+        //int quantidadePessoas = 2;
+
+        //bool acompanhado = quantidadePessoas >= 2;   //booleana == bool
+
         bool grupo = true;
-                            // &&
+                            // ou &&
         if (idadeJoao >= 18 || grupo)
         {
             Console.WriteLine("pode entrar!");

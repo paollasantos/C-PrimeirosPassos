@@ -8,17 +8,21 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ASPIRE 5\\.nuget\\packages\\": {}
+    "C:\\Users\\ASPIRE 5\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\CSharp\\3-CriandoVariaveisPontoFlutuante\\3-CriandoVariaveisPontoFlutuante.csproj",
+      "projectUniqueName": "C:\\Projetos\\CSharp\\C-PrimeirosPassos\\3-CriandoVariaveisPontoFlutuante\\3-CriandoVariaveisPontoFlutuante.csproj",
       "projectName": "3-CriandoVariaveisPontoFlutuante",
-      "projectPath": "C:\\Projetos\\CSharp\\3-CriandoVariaveisPontoFlutuante\\3-CriandoVariaveisPontoFlutuante.csproj",
+      "projectPath": "C:\\Projetos\\CSharp\\C-PrimeirosPassos\\3-CriandoVariaveisPontoFlutuante\\3-CriandoVariaveisPontoFlutuante.csproj",
       "packagesPath": "C:\\Users\\ASPIRE 5\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\CSharp\\3-CriandoVariaveisPontoFlutuante\\obj\\",
+      "outputPath": "C:\\Projetos\\CSharp\\C-PrimeirosPassos\\3-CriandoVariaveisPontoFlutuante\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
         "C:\\Users\\ASPIRE 5\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"

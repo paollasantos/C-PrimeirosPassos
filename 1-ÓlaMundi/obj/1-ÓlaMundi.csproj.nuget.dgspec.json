@@ -1,18 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\CSharp\\1-ÓlaMundi\\1-ÓlaMundi.csproj": {}
+    "C:\\Projetos\\CSharp\\C-PrimeirosPassos\\1-ÓlaMundi\\1-ÓlaMundi.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\CSharp\\1-ÓlaMundi\\1-ÓlaMundi.csproj": {
+    "C:\\Projetos\\CSharp\\C-PrimeirosPassos\\1-ÓlaMundi\\1-ÓlaMundi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\CSharp\\1-ÓlaMundi\\1-ÓlaMundi.csproj",
+        "projectUniqueName": "C:\\Projetos\\CSharp\\C-PrimeirosPassos\\1-ÓlaMundi\\1-ÓlaMundi.csproj",
         "projectName": "1-ÓlaMundi",
-        "projectPath": "C:\\Projetos\\CSharp\\1-ÓlaMundi\\1-ÓlaMundi.csproj",
+        "projectPath": "C:\\Projetos\\CSharp\\C-PrimeirosPassos\\1-ÓlaMundi\\1-ÓlaMundi.csproj",
         "packagesPath": "C:\\Users\\ASPIRE 5\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\CSharp\\1-ÓlaMundi\\obj\\",
+        "outputPath": "C:\\Projetos\\CSharp\\C-PrimeirosPassos\\1-ÓlaMundi\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\ASPIRE 5\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"

@@ -4,16 +4,20 @@ using System;
 class programa
 {
     static void Main(string[] args)
+
+    // write  ----> apenas escrever na tela.
+    // writeline ---> vai escrever e pula a linha.
+
     {
         Console.WriteLine("Projeto 2 - Criando Variaveis");
 
-        int idade;
+        int idade;  // declarar a variavel.
 
         idade = 27;
 
-        Console.WriteLine("Minha idade é " + idade);
+        Console.WriteLine("Minha idade é " + idade);  // ( "texto" + variavel );
 
-        idade = 27 - 5;
+        idade = 25 + 5;
 
         Console.WriteLine(idade);
 
@@ -21,7 +25,7 @@ class programa
 
         Console.WriteLine(idade);
 
-        idade = (5 - 2) * 3;
+        idade = (10 + 5) * 2;
 
         Console.WriteLine(idade);
 
@@ -30,3 +34,5 @@ class programa
     }
 
 }
+
+

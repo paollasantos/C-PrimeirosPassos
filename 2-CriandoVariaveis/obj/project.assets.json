@@ -8,17 +8,21 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ASPIRE 5\\.nuget\\packages\\": {}
+    "C:\\Users\\ASPIRE 5\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\CSharp\\2-CriandoVariaveis\\2-CriandoVariaveis.csproj",
+      "projectUniqueName": "C:\\Projetos\\CSharp\\C-PrimeirosPassos\\2-CriandoVariaveis\\2-CriandoVariaveis.csproj",
       "projectName": "2-CriandoVariaveis",
-      "projectPath": "C:\\Projetos\\CSharp\\2-CriandoVariaveis\\2-CriandoVariaveis.csproj",
+      "projectPath": "C:\\Projetos\\CSharp\\C-PrimeirosPassos\\2-CriandoVariaveis\\2-CriandoVariaveis.csproj",
       "packagesPath": "C:\\Users\\ASPIRE 5\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\CSharp\\2-CriandoVariaveis\\obj\\",
+      "outputPath": "C:\\Projetos\\CSharp\\C-PrimeirosPassos\\2-CriandoVariaveis\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
         "C:\\Users\\ASPIRE 5\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"

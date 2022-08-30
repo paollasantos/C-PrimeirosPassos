@@ -10,6 +10,7 @@ class programa
         double fatorRendimento = 1.005;
         double investimento = 1000;
 
+        // variavel + condição + contador
         for (int anos = 1; anos <= 5; anos++)
         {
             for (int mes = 1; mes <= 12; mes++)

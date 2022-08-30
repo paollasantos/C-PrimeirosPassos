@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\CSharp\\P13-APalavraChaveBreak\\P13-APalavraChaveBreak.csproj",
+      "projectUniqueName": "C:\\Projetos\\CSharp\\C-PrimeirosPassos\\P13-APalavraChaveBreak\\P13-APalavraChaveBreak.csproj",
       "projectName": "P13-APalavraChaveBreak",
-      "projectPath": "C:\\Projetos\\CSharp\\P13-APalavraChaveBreak\\P13-APalavraChaveBreak.csproj",
+      "projectPath": "C:\\Projetos\\CSharp\\C-PrimeirosPassos\\P13-APalavraChaveBreak\\P13-APalavraChaveBreak.csproj",
       "packagesPath": "C:\\Users\\ASPIRE 5\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\CSharp\\P13-APalavraChaveBreak\\obj\\",
+      "outputPath": "C:\\Projetos\\CSharp\\C-PrimeirosPassos\\P13-APalavraChaveBreak\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

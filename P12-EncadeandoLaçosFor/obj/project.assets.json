@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\CSharp\\P12-EncadeandoLaçosFor\\P12-EncadeandoLaçosFor.csproj",
+      "projectUniqueName": "C:\\Projetos\\CSharp\\C-PrimeirosPassos\\P12-EncadeandoLaçosFor\\P12-EncadeandoLaçosFor.csproj",
       "projectName": "P12-EncadeandoLaçosFor",
-      "projectPath": "C:\\Projetos\\CSharp\\P12-EncadeandoLaçosFor\\P12-EncadeandoLaçosFor.csproj",
+      "projectPath": "C:\\Projetos\\CSharp\\C-PrimeirosPassos\\P12-EncadeandoLaçosFor\\P12-EncadeandoLaçosFor.csproj",
       "packagesPath": "C:\\Users\\ASPIRE 5\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\CSharp\\P12-EncadeandoLaçosFor\\obj\\",
+      "outputPath": "C:\\Projetos\\CSharp\\C-PrimeirosPassos\\P12-EncadeandoLaçosFor\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
